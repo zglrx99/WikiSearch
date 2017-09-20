@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "Lamberjack";
+    src: url('../fonts/Lumberjack.otf') format("truetype");
+}
+.font-lumber { 
+    font-family: "Lamberjack", Verdana, Tahoma;
+}
